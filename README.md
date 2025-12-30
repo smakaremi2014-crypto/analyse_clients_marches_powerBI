@@ -23,3 +23,4 @@ Jeu de données public simulant des ventes internationales :
 - Dashboard interactif permettant de visualiser les clients les plus rentables
 - Suivi des ventes par pays et produit
 - Aide à la décision pour la stratégie commerciale
+  
